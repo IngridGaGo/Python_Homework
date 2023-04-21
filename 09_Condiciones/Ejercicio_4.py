@@ -1,6 +1,3 @@
-import numpy as plt 
-import matplotlib.pyplot as plt
-
 
 #definir la función   >.<
 F = lambda T: ((204165.5)/(330 - 2*T)) + (10400/(T-20))
